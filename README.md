@@ -11,7 +11,7 @@ After reading the quote mentioned above, I realized that the problem ran deep -T
 With another election around the corner, I decided to see if I could illuminate patterns and differences between Republican and Democratic ways of expression to try
 and discover a better explanation. The question that I posed was "Could we train a model to accurately predict political lean?" 
 
-This video is where I detail the process and my findings about political idiolects from #Twitter data, the spread of malign narratives across social media networks
+This video is where I detail the process and my findings about political idiolects from Twitter data, the spread of malign narratives across social media networks
 and the potential bot detection application of my project:
 
 https://www.linkedin.com/feed/update/urn:li:activity:6729542912360747009/
